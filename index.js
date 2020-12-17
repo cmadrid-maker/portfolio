@@ -7,6 +7,18 @@ var copyDictionary = {
         en_copy: "Who am I?",
         sp_copy: "¿Quién soy?"
     },
+    past_experience_link: {
+        en_copy: "Past Experience",
+        sp_copy: "Experiencia Pasada"
+    },
+    future_goals_link: {
+        en_copy: "Future Goals",
+        sp_copy: "Objetivos Futuros"
+    },
+    project_purpose_link: {
+        en_copy: "Project Purpose",
+        sp_copy: "Propósito del Proyecto"
+    },
     who_am_i_header: {
         en_copy: "Who am I?",
         sp_copy: "¿Quién soy?"
